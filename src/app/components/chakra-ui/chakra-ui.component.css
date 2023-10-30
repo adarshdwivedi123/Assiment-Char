@@ -1,0 +1,25 @@
+.card {
+    max-width: 800px;
+    border: 2px solid black;
+    margin: 10px;
+    align-items: center;
+  }
+  
+.favorite-icon-button {
+  font-size: 24px; /* Adjust the size as needed */
+  color: #f44336; /* Change the color to your preference */
+  float:right;
+}
+
+.title_center {
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */
+  font-style: bold;
+  
+}
+.Loading{
+  font-size: 24px;
+  text-align: center;
+  
+}
